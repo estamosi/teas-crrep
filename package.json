@@ -1,6 +1,6 @@
 {
   "name": "teas-crrep",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Teas creep",
   "main": "index.js",
   "scripts": {

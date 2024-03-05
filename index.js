@@ -6,7 +6,6 @@ class TeasCreap {
     }
   
     brew() {
-      console.log(`Brewing a magical cup of ${this.teaType} tea.`);
       setTimeout(() => {
         this.isBrewed = true;
         console.log(`Your enchanting ${this.teaType} tea is ready!`);
